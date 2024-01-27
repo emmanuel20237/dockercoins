@@ -1,6 +1,6 @@
 # dockercoins
 
-This is the demo application originally used in Jérôme Petazzoni's [orchestration workshop](https://github.com/jpetazzo/container.training).
+This is the demo application originally used in yann's [orchestration workshop](https://github.com/emmanuel20237/dockercoins).
 
 [Kubernetes Hands-on Workshop](https://training.play-with-kubernetes.com/kubernetes-workshop/)
 ```
